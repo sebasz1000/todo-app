@@ -1,0 +1,29 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "An small to do list app using NodeJS and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebasz1000/todo-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "javascript",
+    "practice"
+  ],
+  "author": "Juan Sebastian Zapata Ocampo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebasz1000/todo-app/issues"
+  },
+  "homepage": "https://github.com/sebasz1000/todo-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
